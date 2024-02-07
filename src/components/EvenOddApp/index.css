@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bg-container {
+  background-size: cover;
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  text-align: center;
+  height: 350px;
+  width: 450px;
+  font-family: Roboto;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading-style {
+  color: #0f172a;
+  font-size: 35px;
+}
+.count-paragraph {
+  color: #334155;
+
+  font-size: 20px;
+}
+.button-style {
+  color: #1e293b;
+  height: 35px;
+  width: 130px;
+  border-radius: 8px;
+  border: solid 0px;
+}
+.content-style {
+  color: #334155;
+  font-size: 12px;
+}
